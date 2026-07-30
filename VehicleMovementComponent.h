@@ -25,7 +25,6 @@ private:
     // The underscore indicates that the variable is exported
 
     // Property to activate or deactivate the movement
-    /// Property to activate or deactivate the movement
     bool _isEnabled = true;
 
     // --- INTERNAL / PRIVATE VARIABLES ---
